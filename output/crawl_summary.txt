@@ -1,0 +1,9 @@
+采集时间: 20250305_220816
+总数据量: 250
+排名范围: 1 - 250
+参与节点: douban1, douban2, douban3
+
+节点数据统计:
+movies_douban1: 89条
+movies_douban2: 91条
+movies_douban3: 148条

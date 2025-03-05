@@ -1,0 +1,572 @@
+=== 日志开始于 2025-03-05 21:58:19 ===
+2025-03-05 21:58:29 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 2 | delay: 3467 ms (+467) | latency: 6934 ms | size: 27647 bytes
+2025-03-05 21:58:31 [douban2] INFO: 成功解析电影: 超脱 (排名: 86)
+2025-03-05 21:58:31 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 9条, 全局: 28条
+2025-03-05 21:58:31 [Douban2.pipelines] INFO: 当前总采集数量: 28
+2025-03-05 21:58:31 [douban2] INFO: 采集进度 - 排名: 86, 当前节点: 1, 总进度: 28/250
+2025-03-05 21:58:31 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 2 | delay: 6476 ms (+3008) | latency:12952 ms | size: 27081 bytes
+2025-03-05 21:58:33 [douban2] INFO: 成功解析电影: 禁闭岛 (排名: 82)
+2025-03-05 21:58:33 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 10条, 全局: 32条
+2025-03-05 21:58:33 [Douban2.pipelines] INFO: 当前总采集数量: 32
+2025-03-05 21:58:33 [douban2] INFO: 采集进度 - 排名: 82, 当前节点: 2, 总进度: 32/250
+2025-03-05 21:58:33 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3806 ms (-2669) | latency: 2273 ms | size: 26103 bytes
+2025-03-05 21:58:35 [douban2] INFO: 成功解析电影: 致命ID (排名: 90)
+2025-03-05 21:58:35 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 11条, 全局: 33条
+2025-03-05 21:58:35 [Douban2.pipelines] INFO: 当前总采集数量: 33
+2025-03-05 21:58:35 [douban2] INFO: 采集进度 - 排名: 90, 当前节点: 3, 总进度: 33/250
+2025-03-05 21:58:38 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (-806) | latency: 1678 ms | size: 29396 bytes
+2025-03-05 21:58:39 [douban2] INFO: 成功解析电影: 教父2 (排名: 57)
+2025-03-05 21:58:39 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 12条, 全局: 37条
+2025-03-05 21:58:39 [Douban2.pipelines] INFO: 当前总采集数量: 37
+2025-03-05 21:58:39 [douban2] INFO: 采集进度 - 排名: 57, 当前节点: 4, 总进度: 37/250
+2025-03-05 21:58:42 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1428 ms | size: 27030 bytes
+2025-03-05 21:58:44 [douban2] INFO: 成功解析电影: 杀人回忆 (排名: 92)
+2025-03-05 21:58:44 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 13条, 全局: 41条
+2025-03-05 21:58:44 [Douban2.pipelines] INFO: 当前总采集数量: 41
+2025-03-05 21:58:44 [douban2] INFO: 采集进度 - 排名: 92, 当前节点: 5, 总进度: 41/250
+2025-03-05 21:58:48 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2770 ms | size: 26052 bytes
+2025-03-05 21:58:50 [douban2] INFO: 成功解析电影: 海豚湾 (排名: 93)
+2025-03-05 21:58:50 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 14条, 全局: 44条
+2025-03-05 21:58:50 [Douban2.pipelines] INFO: 当前总采集数量: 44
+2025-03-05 21:58:50 [douban2] INFO: 采集进度 - 排名: 93, 当前节点: 6, 总进度: 44/250
+2025-03-05 21:58:52 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2192 ms | size: 26661 bytes
+2025-03-05 21:58:53 [douban2] INFO: 成功解析电影: 罗马假日 (排名: 55)
+2025-03-05 21:58:53 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 15条, 全局: 47条
+2025-03-05 21:58:53 [Douban2.pipelines] INFO: 当前总采集数量: 47
+2025-03-05 21:58:53 [douban2] INFO: 采集进度 - 排名: 55, 当前节点: 7, 总进度: 47/250
+2025-03-05 21:58:56 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2858 ms | size: 23815 bytes
+2025-03-05 21:58:58 [douban2] INFO: 成功解析电影: 喜剧之王 (排名: 89)
+2025-03-05 21:58:58 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 16条, 全局: 50条
+2025-03-05 21:58:58 [Douban2.pipelines] INFO: 当前总采集数量: 50
+2025-03-05 21:58:58 [douban2] INFO: 采集进度 - 排名: 89, 当前节点: 8, 总进度: 50/250
+2025-03-05 21:58:59 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1688 ms | size: 26115 bytes
+2025-03-05 21:59:01 [douban2] INFO: 成功解析电影: 天空之城 (排名: 42)
+2025-03-05 21:59:01 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 17条, 全局: 53条
+2025-03-05 21:59:01 [Douban2.pipelines] INFO: 当前总采集数量: 53
+2025-03-05 21:59:01 [douban2] INFO: 采集进度 - 排名: 42, 当前节点: 9, 总进度: 53/250
+2025-03-05 21:59:04 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2834 ms | size: 27249 bytes
+2025-03-05 21:59:05 [douban2] INFO: 成功解析电影: 末代皇帝 (排名: 26)
+2025-03-05 21:59:05 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 18条, 全局: 56条
+2025-03-05 21:59:05 [Douban2.pipelines] INFO: 当前总采集数量: 56
+2025-03-05 21:59:05 [douban2] INFO: 采集进度 - 排名: 26, 当前节点: 10, 总进度: 56/250
+2025-03-05 21:59:07 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2000 ms | size: 27466 bytes
+2025-03-05 21:59:09 [douban2] INFO: 成功解析电影: 何以为家 (排名: 50)
+2025-03-05 21:59:09 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 19条, 全局: 60条
+2025-03-05 21:59:09 [Douban2.pipelines] INFO: 当前总采集数量: 60
+2025-03-05 21:59:09 [douban2] INFO: 采集进度 - 排名: 50, 当前节点: 11, 总进度: 60/250
+2025-03-05 21:59:12 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2489 ms | size: 26830 bytes
+2025-03-05 21:59:13 [douban2] INFO: 成功解析电影: 音乐之声 (排名: 70)
+2025-03-05 21:59:13 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 20条, 全局: 62条
+2025-03-05 21:59:13 [Douban2.pipelines] INFO: 当前总采集数量: 62
+2025-03-05 21:59:13 [douban2] INFO: 采集进度 - 排名: 70, 当前节点: 12, 总进度: 62/250
+2025-03-05 21:59:17 [scrapy.extensions.logstats] INFO: Crawled 12 pages (at 12 pages/min), scraped 12 items (at 12 items/min)
+2025-03-05 21:59:17 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 3728 ms | size: 27955 bytes
+2025-03-05 21:59:19 [douban2] INFO: 成功解析电影: 我不是药神 (排名: 33)
+2025-03-05 21:59:19 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 21条, 全局: 68条
+2025-03-05 21:59:19 [Douban2.pipelines] INFO: 当前总采集数量: 68
+2025-03-05 21:59:19 [douban2] INFO: 采集进度 - 排名: 33, 当前节点: 13, 总进度: 68/250
+2025-03-05 21:59:21 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2111 ms | size: 27454 bytes
+2025-03-05 21:59:22 [douban2] INFO: 成功解析电影: 哈利·波特与魔法石 (排名: 28)
+2025-03-05 21:59:22 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 22条, 全局: 71条
+2025-03-05 21:59:22 [Douban2.pipelines] INFO: 当前总采集数量: 71
+2025-03-05 21:59:22 [douban2] INFO: 采集进度 - 排名: 28, 当前节点: 14, 总进度: 71/250
+2025-03-05 21:59:24 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1964 ms | size: 25272 bytes
+2025-03-05 21:59:26 [douban2] INFO: 成功解析电影: 唐伯虎点秋香 (排名: 99)
+2025-03-05 21:59:26 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 23条, 全局: 74条
+2025-03-05 21:59:26 [Douban2.pipelines] INFO: 当前总采集数量: 74
+2025-03-05 21:59:26 [douban2] INFO: 采集进度 - 排名: 99, 当前节点: 15, 总进度: 74/250
+2025-03-05 21:59:28 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2065 ms | size: 27927 bytes
+2025-03-05 21:59:29 [douban2] INFO: 成功解析电影: 猫鼠游戏 (排名: 41)
+2025-03-05 21:59:29 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 24条, 全局: 77条
+2025-03-05 21:59:29 [Douban2.pipelines] INFO: 当前总采集数量: 77
+2025-03-05 21:59:29 [douban2] INFO: 采集进度 - 排名: 41, 当前节点: 16, 总进度: 77/250
+2025-03-05 21:59:31 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1610 ms | size: 26889 bytes
+2025-03-05 21:59:32 [douban2] INFO: 成功解析电影: 摔跤吧！爸爸 (排名: 43)
+2025-03-05 21:59:32 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 25条, 全局: 79条
+2025-03-05 21:59:32 [Douban2.pipelines] INFO: 当前总采集数量: 79
+2025-03-05 21:59:32 [douban2] INFO: 采集进度 - 排名: 43, 当前节点: 17, 总进度: 79/250
+2025-03-05 21:59:35 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 2 | delay: 3000 ms (+0) | latency: 2172 ms | size: 28292 bytes
+2025-03-05 21:59:36 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2042 ms | size: 26973 bytes
+2025-03-05 21:59:38 [douban2] INFO: 成功解析电影: 布达佩斯大饭店 (排名: 80)
+2025-03-05 21:59:38 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 26条, 全局: 83条
+2025-03-05 21:59:38 [Douban2.pipelines] INFO: 当前总采集数量: 83
+2025-03-05 21:59:38 [douban2] INFO: 采集进度 - 排名: 80, 当前节点: 18, 总进度: 83/250
+2025-03-05 21:59:38 [douban2] INFO: 成功解析电影: 少年派的奇幻漂流 (排名: 45)
+2025-03-05 21:59:38 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 27条, 全局: 84条
+2025-03-05 21:59:38 [Douban2.pipelines] INFO: 当前总采集数量: 84
+2025-03-05 21:59:38 [douban2] INFO: 采集进度 - 排名: 45, 当前节点: 19, 总进度: 84/250
+2025-03-05 21:59:41 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 2 | delay: 3000 ms (+0) | latency: 3273 ms | size: 29891 bytes
+2025-03-05 21:59:42 [douban2] INFO: 成功解析电影: 指环王3：王者无敌 (排名: 32)
+2025-03-05 21:59:42 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 28条, 全局: 87条
+2025-03-05 21:59:42 [Douban2.pipelines] INFO: 当前总采集数量: 87
+2025-03-05 21:59:42 [douban2] INFO: 采集进度 - 排名: 32, 当前节点: 20, 总进度: 87/250
+2025-03-05 21:59:43 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1984 ms | size: 25383 bytes
+2025-03-05 21:59:44 [douban2] INFO: 成功解析电影: 大话西游之月光宝盒 (排名: 48)
+2025-03-05 21:59:44 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 29条, 全局: 89条
+2025-03-05 21:59:44 [Douban2.pipelines] INFO: 当前总采集数量: 89
+2025-03-05 21:59:44 [douban2] INFO: 采集进度 - 排名: 48, 当前节点: 21, 总进度: 89/250
+2025-03-05 21:59:47 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2615 ms | size: 29064 bytes
+2025-03-05 21:59:49 [douban2] INFO: 成功解析电影: 哈利·波特与死亡圣器(下) (排名: 69)
+2025-03-05 21:59:49 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 30条, 全局: 93条
+2025-03-05 21:59:49 [Douban2.pipelines] INFO: 当前总采集数量: 93
+2025-03-05 21:59:49 [douban2] INFO: 采集进度 - 排名: 69, 当前节点: 22, 总进度: 93/250
+2025-03-05 21:59:51 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1669 ms | size: 27564 bytes
+2025-03-05 21:59:52 [douban2] INFO: 成功解析电影: 雨中曲 (排名: 182)
+2025-03-05 21:59:52 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 31条, 全局: 95条
+2025-03-05 21:59:52 [Douban2.pipelines] INFO: 当前总采集数量: 95
+2025-03-05 21:59:52 [douban2] INFO: 采集进度 - 排名: 182, 当前节点: 23, 总进度: 95/250
+2025-03-05 21:59:55 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 2 | delay: 3000 ms (+0) | latency: 2919 ms | size: 24522 bytes
+2025-03-05 21:59:56 [douban2] INFO: 成功解析电影: 纵横四海 (排名: 184)
+2025-03-05 21:59:56 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 32条, 全局: 99条
+2025-03-05 21:59:56 [Douban2.pipelines] INFO: 当前总采集数量: 99
+2025-03-05 21:59:56 [douban2] INFO: 采集进度 - 排名: 184, 当前节点: 24, 总进度: 99/250
+2025-03-05 21:59:57 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1978 ms | size: 27005 bytes
+2025-03-05 21:59:58 [douban2] INFO: 成功解析电影: 东京教父 (排名: 194)
+2025-03-05 21:59:58 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 33条, 全局: 100条
+2025-03-05 21:59:58 [Douban2.pipelines] INFO: 当前总采集数量: 100
+2025-03-05 21:59:58 [douban2] INFO: 采集进度 - 排名: 194, 当前节点: 25, 总进度: 100/250
+2025-03-05 22:00:00 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2188 ms | size: 25480 bytes
+2025-03-05 22:00:02 [douban2] INFO: 成功解析电影: 岁月神偷 (排名: 193)
+2025-03-05 22:00:02 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 34条, 全局: 103条
+2025-03-05 22:00:02 [Douban2.pipelines] INFO: 当前总采集数量: 103
+2025-03-05 22:00:02 [douban2] INFO: 采集进度 - 排名: 193, 当前节点: 26, 总进度: 103/250
+2025-03-05 22:00:04 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1585 ms | size: 25352 bytes
+2025-03-05 22:00:06 [douban2] INFO: 成功解析电影: 冰川时代 (排名: 190)
+2025-03-05 22:00:06 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 35条, 全局: 106条
+2025-03-05 22:00:06 [Douban2.pipelines] INFO: 当前总采集数量: 106
+2025-03-05 22:00:06 [douban2] INFO: 采集进度 - 排名: 190, 当前节点: 27, 总进度: 106/250
+2025-03-05 22:00:10 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 3023 ms | size: 26844 bytes
+2025-03-05 22:00:12 [douban2] INFO: 成功解析电影: 海街日记 (排名: 177)
+2025-03-05 22:00:12 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 36条, 全局: 110条
+2025-03-05 22:00:12 [Douban2.pipelines] INFO: 当前总采集数量: 110
+2025-03-05 22:00:12 [douban2] INFO: 采集进度 - 排名: 177, 当前节点: 28, 总进度: 110/250
+2025-03-05 22:00:13 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1917 ms | size: 25756 bytes
+2025-03-05 22:00:15 [douban2] INFO: 成功解析电影: 魔女宅急便 (排名: 197)
+2025-03-05 22:00:15 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 37条, 全局: 113条
+2025-03-05 22:00:15 [Douban2.pipelines] INFO: 当前总采集数量: 113
+2025-03-05 22:00:15 [douban2] INFO: 采集进度 - 排名: 197, 当前节点: 29, 总进度: 113/250
+2025-03-05 22:00:17 [scrapy.extensions.logstats] INFO: Crawled 29 pages (at 17 pages/min), scraped 29 items (at 17 items/min)
+2025-03-05 22:00:17 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1747 ms | size: 26423 bytes
+2025-03-05 22:00:17 [douban2] INFO: 创建请求: https://movie.douban.com/top250?start=175&filter=
+2025-03-05 22:00:18 [douban2] INFO: 成功解析电影: 2001太空漫游 (排名: 183)
+2025-03-05 22:00:19 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 38条, 全局: 116条
+2025-03-05 22:00:19 [Douban2.pipelines] INFO: 当前总采集数量: 116
+2025-03-05 22:00:19 [douban2] INFO: 采集进度 - 排名: 183, 当前节点: 30, 总进度: 116/250
+2025-03-05 22:00:20 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1502 ms | size: 26102 bytes
+2025-03-05 22:00:20 [douban2] INFO: 创建请求: https://movie.douban.com/top250?start=150&filter=
+2025-03-05 22:00:22 [douban2] INFO: 成功解析电影: 牯岭街少年杀人事件 (排名: 191)
+2025-03-05 22:00:22 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 39条, 全局: 118条
+2025-03-05 22:00:22 [Douban2.pipelines] INFO: 当前总采集数量: 118
+2025-03-05 22:00:22 [douban2] INFO: 采集进度 - 排名: 191, 当前节点: 31, 总进度: 118/250
+2025-03-05 22:00:27 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 2 | delay: 3000 ms (+0) | latency:  581 ms | size: 11427 bytes
+2025-03-05 22:00:28 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3009 ms (+9) | latency: 6019 ms | size: 11040 bytes
+2025-03-05 22:00:30 [douban2] INFO: 开始解析页面: https://movie.douban.com/top250?start=150&filter=
+2025-03-05 22:00:30 [douban2] INFO: 找到 25 个电影条目
+2025-03-05 22:00:30 [douban2] INFO: 开始解析页面: https://movie.douban.com/top250?start=175&filter=
+2025-03-05 22:00:30 [douban2] INFO: 找到 25 个电影条目
+2025-03-05 22:00:31 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (-9) | latency: 1628 ms | size: 24075 bytes
+2025-03-05 22:00:33 [douban2] INFO: 成功解析电影: 活着 (排名: 30)
+2025-03-05 22:00:33 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 40条, 全局: 119条
+2025-03-05 22:00:33 [Douban2.pipelines] INFO: 当前总采集数量: 120
+2025-03-05 22:00:33 [douban2] INFO: 采集进度 - 排名: 30, 当前节点: 32, 总进度: 120/250
+2025-03-05 22:00:37 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2998 ms | size: 26735 bytes
+2025-03-05 22:00:39 [douban2] INFO: 成功解析电影: 霸王别姬 (排名: 2)
+2025-03-05 22:00:39 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 40条, 全局: 119条
+2025-03-05 22:00:39 [Douban2.pipelines] INFO: 当前总采集数量: 122
+2025-03-05 22:00:39 [douban2] INFO: 采集进度 - 排名: 2, 当前节点: 33, 总进度: 122/250
+2025-03-05 22:00:41 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2233 ms | size: 26208 bytes
+2025-03-05 22:00:42 [douban2] INFO: 成功解析电影: 千与千寻 (排名: 5)
+2025-03-05 22:00:42 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 41条, 全局: 119条
+2025-03-05 22:00:42 [Douban2.pipelines] INFO: 当前总采集数量: 123
+2025-03-05 22:00:42 [douban2] INFO: 采集进度 - 排名: 5, 当前节点: 34, 总进度: 123/250
+2025-03-05 22:00:45 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2315 ms | size: 27478 bytes
+2025-03-05 22:00:46 [douban2] INFO: 成功解析电影: 美丽人生 (排名: 6)
+2025-03-05 22:00:47 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 42条, 全局: 119条
+2025-03-05 22:00:47 [Douban2.pipelines] INFO: 当前总采集数量: 127
+2025-03-05 22:00:47 [douban2] INFO: 采集进度 - 排名: 6, 当前节点: 35, 总进度: 127/250
+2025-03-05 22:00:49 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1596 ms | size: 28652 bytes
+2025-03-05 22:00:50 [douban2] INFO: 成功解析电影: 星际穿越 (排名: 8)
+2025-03-05 22:00:50 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 43条, 全局: 119条
+2025-03-05 22:00:50 [Douban2.pipelines] INFO: 当前总采集数量: 128
+2025-03-05 22:00:50 [douban2] INFO: 采集进度 - 排名: 8, 当前节点: 36, 总进度: 128/250
+2025-03-05 22:00:56 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 2 | delay: 3000 ms (+0) | latency: 4776 ms | size: 27678 bytes
+2025-03-05 22:00:57 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2310 ms | size: 28536 bytes
+2025-03-05 22:00:59 [douban2] INFO: 成功解析电影: 盗梦空间 (排名: 9)
+2025-03-05 22:00:59 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 44条, 全局: 119条
+2025-03-05 22:00:59 [Douban2.pipelines] INFO: 当前总采集数量: 134
+2025-03-05 22:00:59 [douban2] INFO: 采集进度 - 排名: 9, 当前节点: 37, 总进度: 134/250
+2025-03-05 22:00:59 [douban2] INFO: 成功解析电影: 疯狂动物城 (排名: 17)
+2025-03-05 22:00:59 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 44条, 全局: 119条
+2025-03-05 22:00:59 [Douban2.pipelines] INFO: 当前总采集数量: 134
+2025-03-05 22:00:59 [douban2] INFO: 采集进度 - 排名: 17, 当前节点: 38, 总进度: 134/250
+2025-03-05 22:01:01 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1744 ms | size: 27961 bytes
+2025-03-05 22:01:02 [douban2] INFO: 成功解析电影: 当幸福来敲门 (排名: 25)
+2025-03-05 22:01:02 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 45条, 全局: 121条
+2025-03-05 22:01:02 [Douban2.pipelines] INFO: 当前总采集数量: 137
+2025-03-05 22:01:02 [douban2] INFO: 采集进度 - 排名: 25, 当前节点: 39, 总进度: 137/250
+2025-03-05 22:01:05 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1357 ms | size: 26954 bytes
+2025-03-05 22:01:06 [douban2] INFO: 成功解析电影: 三傻大闹宝莱坞 (排名: 14)
+2025-03-05 22:01:06 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 46条, 全局: 123条
+2025-03-05 22:01:06 [Douban2.pipelines] INFO: 当前总采集数量: 140
+2025-03-05 22:01:06 [douban2] INFO: 采集进度 - 排名: 14, 当前节点: 40, 总进度: 140/250
+2025-03-05 22:01:10 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2608 ms | size: 25358 bytes
+2025-03-05 22:01:12 [douban2] INFO: 成功解析电影: 这个杀手不太冷 (排名: 7)
+2025-03-05 22:01:12 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 47条, 全局: 125条
+2025-03-05 22:01:12 [Douban2.pipelines] INFO: 当前总采集数量: 144
+2025-03-05 22:01:12 [douban2] INFO: 采集进度 - 排名: 7, 当前节点: 41, 总进度: 144/250
+2025-03-05 22:01:14 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2030 ms | size: 27704 bytes
+2025-03-05 22:01:15 [douban2] INFO: 成功解析电影: 超脱 (排名: 86)
+2025-03-05 22:01:15 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 47条, 全局: 125条
+2025-03-05 22:01:15 [Douban2.pipelines] INFO: 当前总采集数量: 145
+2025-03-05 22:01:15 [douban2] INFO: 采集进度 - 排名: 86, 当前节点: 42, 总进度: 145/250
+2025-03-05 22:01:17 [scrapy.extensions.logstats] INFO: Crawled 44 pages (at 15 pages/min), scraped 42 items (at 13 items/min)
+2025-03-05 22:01:20 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 3627 ms | size: 26403 bytes
+2025-03-05 22:01:21 [douban2] INFO: 成功解析电影: 辩护人 (排名: 60)
+2025-03-05 22:01:21 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 48条, 全局: 125条
+2025-03-05 22:01:21 [Douban2.pipelines] INFO: 当前总采集数量: 149
+2025-03-05 22:01:21 [douban2] INFO: 采集进度 - 排名: 60, 当前节点: 43, 总进度: 149/250
+2025-03-05 22:01:23 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1886 ms | size: 26092 bytes
+2025-03-05 22:01:25 [douban2] INFO: 成功解析电影: 大话西游之大圣娶亲 (排名: 20)
+2025-03-05 22:01:25 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 49条, 全局: 125条
+2025-03-05 22:01:25 [Douban2.pipelines] INFO: 当前总采集数量: 151
+2025-03-05 22:01:25 [douban2] INFO: 采集进度 - 排名: 20, 当前节点: 44, 总进度: 151/250
+2025-03-05 22:01:28 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2402 ms | size: 26789 bytes
+2025-03-05 22:01:30 [douban2] INFO: 成功解析电影: 杀人回忆 (排名: 92)
+2025-03-05 22:01:30 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 49条, 全局: 125条
+2025-03-05 22:01:30 [Douban2.pipelines] INFO: 当前总采集数量: 152
+2025-03-05 22:01:30 [douban2] INFO: 采集进度 - 排名: 92, 当前节点: 45, 总进度: 152/250
+2025-03-05 22:01:31 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1466 ms | size: 26007 bytes
+2025-03-05 22:01:33 [douban2] INFO: 成功解析电影: 海豚湾 (排名: 93)
+2025-03-05 22:01:33 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 49条, 全局: 125条
+2025-03-05 22:01:33 [Douban2.pipelines] INFO: 当前总采集数量: 153
+2025-03-05 22:01:33 [douban2] INFO: 采集进度 - 排名: 93, 当前节点: 46, 总进度: 153/250
+2025-03-05 22:01:35 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2519 ms | size: 26271 bytes
+2025-03-05 22:01:37 [douban2] INFO: 成功解析电影: 十二怒汉 (排名: 39)
+2025-03-05 22:01:37 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 50条, 全局: 125条
+2025-03-05 22:01:37 [Douban2.pipelines] INFO: 当前总采集数量: 155
+2025-03-05 22:01:37 [douban2] INFO: 采集进度 - 排名: 39, 当前节点: 47, 总进度: 155/250
+2025-03-05 22:01:38 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1799 ms | size: 27000 bytes
+2025-03-05 22:01:40 [douban2] INFO: 成功解析电影: 摩登时代 (排名: 87)
+2025-03-05 22:01:40 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 51条, 全局: 125条
+2025-03-05 22:01:40 [Douban2.pipelines] INFO: 当前总采集数量: 158
+2025-03-05 22:01:40 [douban2] INFO: 采集进度 - 排名: 87, 当前节点: 48, 总进度: 158/250
+2025-03-05 22:01:45 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 2 | delay: 3000 ms (+0) | latency: 1462 ms | size: 25846 bytes
+2025-03-05 22:01:47 [douban2] INFO: 成功解析电影: 黑客帝国 (排名: 54)
+2025-03-05 22:01:47 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 52条, 全局: 125条
+2025-03-05 22:01:47 [Douban2.pipelines] INFO: 当前总采集数量: 162
+2025-03-05 22:01:47 [douban2] INFO: 采集进度 - 排名: 54, 当前节点: 49, 总进度: 162/250
+2025-03-05 22:01:49 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 2 | delay: 4699 ms (+1699) | latency: 9398 ms | size: 23808 bytes
+2025-03-05 22:01:51 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3149 ms (-1549) | latency: 3199 ms | size: 26802 bytes
+2025-03-05 22:01:52 [douban2] INFO: 成功解析电影: 喜剧之王 (排名: 89)
+2025-03-05 22:01:52 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 52条, 全局: 125条
+2025-03-05 22:01:52 [Douban2.pipelines] INFO: 当前总采集数量: 163
+2025-03-05 22:01:52 [douban2] INFO: 采集进度 - 排名: 89, 当前节点: 50, 总进度: 163/250
+2025-03-05 22:01:52 [douban2] INFO: 成功解析电影: 致命魔术 (排名: 83)
+2025-03-05 22:01:52 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 53条, 全局: 125条
+2025-03-05 22:01:52 [Douban2.pipelines] INFO: 当前总采集数量: 164
+2025-03-05 22:01:52 [douban2] INFO: 采集进度 - 排名: 83, 当前节点: 51, 总进度: 164/250
+2025-03-05 22:01:55 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (-149) | latency: 2454 ms | size: 26805 bytes
+2025-03-05 22:01:56 [douban2] INFO: 成功解析电影: 死亡诗社 (排名: 49)
+2025-03-05 22:01:56 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 54条, 全局: 125条
+2025-03-05 22:01:56 [Douban2.pipelines] INFO: 当前总采集数量: 167
+2025-03-05 22:01:56 [douban2] INFO: 采集进度 - 排名: 49, 当前节点: 52, 总进度: 167/250
+2025-03-05 22:01:58 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2050 ms | size: 27194 bytes
+2025-03-05 22:02:00 [douban2] INFO: 成功解析电影: 怦然心动 (排名: 29)
+2025-03-05 22:02:00 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 55条, 全局: 125条
+2025-03-05 22:02:00 [Douban2.pipelines] INFO: 当前总采集数量: 169
+2025-03-05 22:02:00 [douban2] INFO: 采集进度 - 排名: 29, 当前节点: 53, 总进度: 169/250
+2025-03-05 22:02:03 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2473 ms | size: 27926 bytes
+2025-03-05 22:02:04 [douban2] INFO: 成功解析电影: 我不是药神 (排名: 33)
+2025-03-05 22:02:04 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 55条, 全局: 125条
+2025-03-05 22:02:04 [Douban2.pipelines] INFO: 当前总采集数量: 169
+2025-03-05 22:02:04 [douban2] INFO: 采集进度 - 排名: 33, 当前节点: 54, 总进度: 169/250
+2025-03-05 22:02:06 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1934 ms | size: 26605 bytes
+2025-03-05 22:02:08 [douban2] INFO: 成功解析电影: 沉默的羔羊 (排名: 78)
+2025-03-05 22:02:08 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 56条, 全局: 125条
+2025-03-05 22:02:08 [Douban2.pipelines] INFO: 当前总采集数量: 172
+2025-03-05 22:02:08 [douban2] INFO: 采集进度 - 排名: 78, 当前节点: 55, 总进度: 172/250
+2025-03-05 22:02:10 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1850 ms | size: 27648 bytes
+2025-03-05 22:02:11 [douban2] INFO: 成功解析电影: 闻香识女人 (排名: 51)
+2025-03-05 22:02:11 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 57条, 全局: 125条
+2025-03-05 22:02:11 [Douban2.pipelines] INFO: 当前总采集数量: 174
+2025-03-05 22:02:11 [douban2] INFO: 采集进度 - 排名: 51, 当前节点: 56, 总进度: 174/250
+2025-03-05 22:02:13 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1450 ms | size: 25262 bytes
+2025-03-05 22:02:14 [douban2] INFO: 成功解析电影: 唐伯虎点秋香 (排名: 99)
+2025-03-05 22:02:14 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 57条, 全局: 125条
+2025-03-05 22:02:14 [Douban2.pipelines] INFO: 当前总采集数量: 174
+2025-03-05 22:02:14 [douban2] INFO: 采集进度 - 排名: 99, 当前节点: 57, 总进度: 174/250
+2025-03-05 22:02:17 [scrapy.extensions.logstats] INFO: Crawled 59 pages (at 15 pages/min), scraped 57 items (at 15 items/min)
+2025-03-05 22:02:18 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2910 ms | size: 27910 bytes
+2025-03-05 22:02:20 [douban2] INFO: 成功解析电影: 猫鼠游戏 (排名: 41)
+2025-03-05 22:02:20 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 57条, 全局: 125条
+2025-03-05 22:02:20 [Douban2.pipelines] INFO: 当前总采集数量: 174
+2025-03-05 22:02:20 [douban2] INFO: 采集进度 - 排名: 41, 当前节点: 58, 总进度: 174/250
+2025-03-05 22:02:22 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2073 ms | size: 28811 bytes
+2025-03-05 22:02:23 [douban2] INFO: 成功解析电影: 拯救大兵瑞恩 (排名: 76)
+2025-03-05 22:02:23 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 58条, 全局: 125条
+2025-03-05 22:02:23 [Douban2.pipelines] INFO: 当前总采集数量: 176
+2025-03-05 22:02:23 [douban2] INFO: 采集进度 - 排名: 76, 当前节点: 59, 总进度: 176/250
+2025-03-05 22:02:27 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 2 | delay: 3000 ms (+0) | latency: 1703 ms | size: 26933 bytes
+2025-03-05 22:02:28 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 4895 ms | size: 27411 bytes
+2025-03-05 22:02:29 [douban2] INFO: 成功解析电影: 少年派的奇幻漂流 (排名: 45)
+2025-03-05 22:02:29 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 58条, 全局: 125条
+2025-03-05 22:02:29 [Douban2.pipelines] INFO: 当前总采集数量: 177
+2025-03-05 22:02:29 [douban2] INFO: 采集进度 - 排名: 45, 当前节点: 60, 总进度: 177/250
+2025-03-05 22:02:29 [douban2] INFO: 成功解析电影: 本杰明·巴顿奇事 (排名: 63)
+2025-03-05 22:02:29 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 59条, 全局: 125条
+2025-03-05 22:02:29 [Douban2.pipelines] INFO: 当前总采集数量: 179
+2025-03-05 22:02:29 [douban2] INFO: 采集进度 - 排名: 63, 当前节点: 61, 总进度: 179/250
+2025-03-05 22:02:32 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2235 ms | size: 29374 bytes
+2025-03-05 22:02:33 [douban2] INFO: 成功解析电影: 指环王1：护戒使者 (排名: 56)
+2025-03-05 22:02:33 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 60条, 全局: 125条
+2025-03-05 22:02:33 [Douban2.pipelines] INFO: 当前总采集数量: 182
+2025-03-05 22:02:33 [douban2] INFO: 采集进度 - 排名: 56, 当前节点: 62, 总进度: 182/250
+2025-03-05 22:02:36 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1978 ms | size: 30125 bytes
+2025-03-05 22:02:37 [douban2] INFO: 成功解析电影: 指环王2：双塔奇兵 (排名: 47)
+2025-03-05 22:02:37 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 61条, 全局: 125条
+2025-03-05 22:02:37 [Douban2.pipelines] INFO: 当前总采集数量: 185
+2025-03-05 22:02:37 [douban2] INFO: 采集进度 - 排名: 47, 当前节点: 63, 总进度: 185/250
+2025-03-05 22:02:40 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2006 ms | size: 29049 bytes
+2025-03-05 22:02:41 [douban2] INFO: 成功解析电影: 哈利·波特与死亡圣器(下) (排名: 69)
+2025-03-05 22:02:41 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 61条, 全局: 125条
+2025-03-05 22:02:41 [Douban2.pipelines] INFO: 当前总采集数量: 186
+2025-03-05 22:02:41 [douban2] INFO: 采集进度 - 排名: 69, 当前节点: 64, 总进度: 186/250
+2025-03-05 22:02:45 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 2 | delay: 3000 ms (+0) | latency: 3266 ms | size: 29085 bytes
+2025-03-05 22:02:47 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2321 ms | size: 27724 bytes
+2025-03-05 22:02:48 [douban2] INFO: 成功解析电影: 七武士 (排名: 156)
+2025-03-05 22:02:48 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 62条, 全局: 130条
+2025-03-05 22:02:48 [Douban2.pipelines] INFO: 当前总采集数量: 191
+2025-03-05 22:02:48 [douban2] INFO: 采集进度 - 排名: 156, 当前节点: 65, 总进度: 191/250
+2025-03-05 22:02:48 [douban2] INFO: 成功解析电影: 雨中曲 (排名: 182)
+2025-03-05 22:02:48 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 62条, 全局: 130条
+2025-03-05 22:02:48 [Douban2.pipelines] INFO: 当前总采集数量: 191
+2025-03-05 22:02:48 [douban2] INFO: 采集进度 - 排名: 182, 当前节点: 66, 总进度: 191/250
+2025-03-05 22:02:51 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 3361 ms | size: 27575 bytes
+2025-03-05 22:02:53 [douban2] INFO: 成功解析电影: 小丑 (排名: 168)
+2025-03-05 22:02:53 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 63条, 全局: 131条
+2025-03-05 22:02:53 [Douban2.pipelines] INFO: 当前总采集数量: 193
+2025-03-05 22:02:53 [douban2] INFO: 采集进度 - 排名: 168, 当前节点: 67, 总进度: 193/250
+2025-03-05 22:02:55 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1891 ms | size: 26406 bytes
+2025-03-05 22:02:56 [douban2] INFO: 成功解析电影: 英雄本色 (排名: 178)
+2025-03-05 22:02:56 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 64条, 全局: 131条
+2025-03-05 22:02:56 [Douban2.pipelines] INFO: 当前总采集数量: 195
+2025-03-05 22:02:56 [douban2] INFO: 采集进度 - 排名: 178, 当前节点: 68, 总进度: 195/250
+2025-03-05 22:02:58 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1718 ms | size: 26422 bytes
+2025-03-05 22:03:00 [douban2] INFO: 成功解析电影: 恐怖直播 (排名: 163)
+2025-03-05 22:03:00 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 65条, 全局: 133条
+2025-03-05 22:03:00 [Douban2.pipelines] INFO: 当前总采集数量: 198
+2025-03-05 22:03:00 [douban2] INFO: 采集进度 - 排名: 163, 当前节点: 69, 总进度: 198/250
+2025-03-05 22:03:02 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1258 ms | size: 26680 bytes
+2025-03-05 22:03:03 [douban2] INFO: 成功解析电影: 记忆碎片 (排名: 185)
+2025-03-05 22:03:03 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 66条, 全局: 134条
+2025-03-05 22:03:03 [Douban2.pipelines] INFO: 当前总采集数量: 200
+2025-03-05 22:03:03 [douban2] INFO: 采集进度 - 排名: 185, 当前节点: 70, 总进度: 200/250
+2025-03-05 22:03:06 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1711 ms | size: 25540 bytes
+2025-03-05 22:03:07 [douban2] INFO: 成功解析电影: 岁月神偷 (排名: 193)
+2025-03-05 22:03:07 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 66条, 全局: 134条
+2025-03-05 22:03:07 [Douban2.pipelines] INFO: 当前总采集数量: 200
+2025-03-05 22:03:07 [douban2] INFO: 采集进度 - 排名: 193, 当前节点: 71, 总进度: 200/250
+2025-03-05 22:03:10 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2706 ms | size: 28071 bytes
+2025-03-05 22:03:12 [douban2] INFO: 成功解析电影: 惊魂记 (排名: 158)
+2025-03-05 22:03:12 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 67条, 全局: 137条
+2025-03-05 22:03:12 [Douban2.pipelines] INFO: 当前总采集数量: 204
+2025-03-05 22:03:12 [douban2] INFO: 采集进度 - 排名: 158, 当前节点: 72, 总进度: 204/250
+2025-03-05 22:03:13 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1652 ms | size: 25255 bytes
+2025-03-05 22:03:15 [douban2] INFO: 成功解析电影: 阳光姐妹淘 (排名: 162)
+2025-03-05 22:03:15 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 68条, 全局: 138条
+2025-03-05 22:03:15 [Douban2.pipelines] INFO: 当前总采集数量: 206
+2025-03-05 22:03:15 [douban2] INFO: 采集进度 - 排名: 162, 当前节点: 73, 总进度: 206/250
+2025-03-05 22:03:17 [scrapy.extensions.logstats] INFO: Crawled 75 pages (at 16 pages/min), scraped 73 items (at 16 items/min)
+2025-03-05 22:03:18 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2010 ms | size: 25882 bytes
+2025-03-05 22:03:19 [douban2] INFO: 成功解析电影: 卢旺达饭店 (排名: 186)
+2025-03-05 22:03:19 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 69条, 全局: 138条
+2025-03-05 22:03:19 [Douban2.pipelines] INFO: 当前总采集数量: 209
+2025-03-05 22:03:19 [douban2] INFO: 采集进度 - 排名: 186, 当前节点: 74, 总进度: 209/250
+2025-03-05 22:03:21 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1728 ms | size: 25639 bytes
+2025-03-05 22:03:22 [douban2] INFO: 成功解析电影: 恐怖游轮 (排名: 192)
+2025-03-05 22:03:22 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 70条, 全局: 138条
+2025-03-05 22:03:22 [Douban2.pipelines] INFO: 当前总采集数量: 210
+2025-03-05 22:03:22 [douban2] INFO: 采集进度 - 排名: 192, 当前节点: 75, 总进度: 210/250
+2025-03-05 22:03:25 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2316 ms | size: 28431 bytes
+2025-03-05 22:03:26 [douban2] INFO: 成功解析电影: 头号玩家 (排名: 154)
+2025-03-05 22:03:26 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 71条, 全局: 139条
+2025-03-05 22:03:26 [Douban2.pipelines] INFO: 当前总采集数量: 213
+2025-03-05 22:03:26 [douban2] INFO: 采集进度 - 排名: 154, 当前节点: 76, 总进度: 213/250
+2025-03-05 22:03:29 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2546 ms | size: 25608 bytes
+2025-03-05 22:03:31 [douban2] INFO: 成功解析电影: 上帝之城 (排名: 176)
+2025-03-05 22:03:31 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 72条, 全局: 141条
+2025-03-05 22:03:31 [Douban2.pipelines] INFO: 当前总采集数量: 217
+2025-03-05 22:03:31 [douban2] INFO: 采集进度 - 排名: 176, 当前节点: 77, 总进度: 217/250
+2025-03-05 22:03:32 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1481 ms | size: 27871 bytes
+2025-03-05 22:03:34 [douban2] INFO: 成功解析电影: 模仿游戏 (排名: 153)
+2025-03-05 22:03:34 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 73条, 全局: 143条
+2025-03-05 22:03:34 [Douban2.pipelines] INFO: 当前总采集数量: 220
+2025-03-05 22:03:34 [douban2] INFO: 采集进度 - 排名: 153, 当前节点: 78, 总进度: 220/250
+2025-03-05 22:03:38 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2224 ms | size: 25416 bytes
+2025-03-05 22:03:38 [douban2] INFO: 成功解析电影: 玛丽和马克思 (排名: 152)
+2025-03-05 22:03:38 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 74条, 全局: 146条
+2025-03-05 22:03:38 [Douban2.pipelines] INFO: 当前总采集数量: 223
+2025-03-05 22:03:38 [douban2] INFO: 采集进度 - 排名: 152, 当前节点: 79, 总进度: 223/250
+2025-03-05 22:03:41 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1833 ms | size: 28372 bytes
+2025-03-05 22:03:41 [douban2] INFO: 成功解析电影: 达拉斯买家俱乐部 (排名: 169)
+2025-03-05 22:03:41 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 75条, 全局: 148条
+2025-03-05 22:03:41 [Douban2.pipelines] INFO: 当前总采集数量: 226
+2025-03-05 22:03:41 [douban2] INFO: 采集进度 - 排名: 169, 当前节点: 80, 总进度: 226/250
+2025-03-05 22:03:41 [douban2] INFO: 创建请求: https://movie.douban.com/top250?start=125&filter=
+2025-03-05 22:03:41 [douban2] INFO: 创建请求: https://movie.douban.com/top250?start=100&filter=
+2025-03-05 22:03:41 [douban2] INFO: 爬虫空闲次数: 1
+2025-03-05 22:03:41 [douban2] INFO: Redis中剩余请求数: 1
+2025-03-05 22:03:41 [douban2] INFO: 当前活跃节点数: 3
+2025-03-05 22:03:41 [douban2] INFO: 当前节点已采集数据量: 80
+2025-03-05 22:03:41 [douban2] INFO: 当前节点配额: 83
+2025-03-05 22:03:41 [douban2] INFO: 检测到剩余请求，重置空闲计数器
+2025-03-05 22:03:42 [dns_cache] INFO: DNS解析成功: movie.douban.com -> 81.70.124.99 (TTL: 273s)
+2025-03-05 22:03:44 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1436 ms | size: 11124 bytes
+2025-03-05 22:03:47 [douban2] INFO: 开始解析页面: https://movie.douban.com/top250?start=100&filter=
+2025-03-05 22:03:47 [douban2] INFO: 找到 25 个电影条目
+2025-03-05 22:03:48 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1210 ms | size: 26831 bytes
+2025-03-05 22:03:50 [douban2] INFO: 成功解析电影: 完美的世界 (排名: 128)
+2025-03-05 22:03:50 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 76条, 全局: 151条
+2025-03-05 22:03:50 [Douban2.pipelines] INFO: 当前总采集数量: 229
+2025-03-05 22:03:50 [douban2] INFO: 采集进度 - 排名: 128, 当前节点: 81, 总进度: 229/250
+2025-03-05 22:03:54 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 2 | delay: 3000 ms (+0) | latency: 3656 ms | size: 25132 bytes
+2025-03-05 22:03:56 [douban2] INFO: 成功解析电影: 侧耳倾听 (排名: 133)
+2025-03-05 22:03:56 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 77条, 全局: 156条
+2025-03-05 22:03:56 [Douban2.pipelines] INFO: 当前总采集数量: 234
+2025-03-05 22:03:56 [douban2] INFO: 采集进度 - 排名: 133, 当前节点: 82, 总进度: 234/250
+2025-03-05 22:03:57 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2759 ms | size: 27295 bytes
+2025-03-05 22:03:58 [douban2] INFO: 成功解析电影: 入殓师 (排名: 113)
+2025-03-05 22:03:58 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 78条, 全局: 158条
+2025-03-05 22:03:58 [Douban2.pipelines] INFO: 当前总采集数量: 236
+2025-03-05 22:03:58 [douban2] INFO: 采集进度 - 排名: 113, 当前节点: 83, 总进度: 236/250
+2025-03-05 22:04:00 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1867 ms | size: 25848 bytes
+2025-03-05 22:04:02 [douban2] INFO: 成功解析电影: 幽灵公主 (排名: 112)
+2025-03-05 22:04:02 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 79条, 全局: 160条
+2025-03-05 22:04:02 [Douban2.pipelines] INFO: 当前总采集数量: 238
+2025-03-05 22:04:02 [douban2] INFO: 采集进度 - 排名: 112, 当前节点: 84, 总进度: 238/250
+2025-03-05 22:04:04 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1322 ms | size: 25825 bytes
+2025-03-05 22:04:05 [douban2] INFO: 成功解析电影: 釜山行 (排名: 146)
+2025-03-05 22:04:05 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 80条, 全局: 164条
+2025-03-05 22:04:05 [Douban2.pipelines] INFO: 当前总采集数量: 242
+2025-03-05 22:04:05 [douban2] INFO: 采集进度 - 排名: 146, 当前节点: 85, 总进度: 242/250
+2025-03-05 22:04:09 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1830 ms | size: 26405 bytes
+2025-03-05 22:04:10 [douban2] INFO: 成功解析电影: 无人知晓 (排名: 124)
+2025-03-05 22:04:10 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 81条, 全局: 168条
+2025-03-05 22:04:10 [Douban2.pipelines] INFO: 当前总采集数量: 246
+2025-03-05 22:04:10 [douban2] INFO: 采集进度 - 排名: 124, 当前节点: 86, 总进度: 246/250
+2025-03-05 22:04:12 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1702 ms | size: 25392 bytes
+2025-03-05 22:04:13 [douban2] INFO: 成功解析电影: 断背山 (排名: 115)
+2025-03-05 22:04:13 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 82条, 全局: 171条
+2025-03-05 22:04:13 [Douban2.pipelines] INFO: 当前总采集数量: 249
+2025-03-05 22:04:13 [douban2] INFO: 采集进度 - 排名: 115, 当前节点: 87, 总进度: 249/250
+2025-03-05 22:04:15 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1821 ms | size: 27097 bytes
+2025-03-05 22:04:16 [douban2] INFO: 成功解析电影: 傲慢与偏见 (排名: 137)
+2025-03-05 22:04:16 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 83条, 全局: 174条
+2025-03-05 22:04:16 [Douban2.pipelines] INFO: 当前总采集数量: 252
+2025-03-05 22:04:16 [douban2] INFO: 采集进度 - 排名: 137, 当前节点: 88, 总进度: 252/250
+2025-03-05 22:04:17 [scrapy.extensions.logstats] INFO: Crawled 91 pages (at 16 pages/min), scraped 88 items (at 15 items/min)
+2025-03-05 22:04:19 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1509 ms | size: 26350 bytes
+2025-03-05 22:04:20 [douban2] INFO: 成功解析电影: 勇敢的心 (排名: 116)
+2025-03-05 22:04:20 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 84条, 全局: 176条
+2025-03-05 22:04:20 [Douban2.pipelines] INFO: 当前总采集数量: 254
+2025-03-05 22:04:20 [douban2] INFO: 采集进度 - 排名: 116, 当前节点: 89, 总进度: 254/250
+2025-03-05 22:04:26 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 2 | delay: 3000 ms (+0) | latency: 1336 ms | size: 25854 bytes
+2025-03-05 22:04:27 [douban2] INFO: 成功解析电影: 菊次郎的夏天 (排名: 117)
+2025-03-05 22:04:27 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 85条, 全局: 181条
+2025-03-05 22:04:27 [Douban2.pipelines] INFO: 当前总采集数量: 259
+2025-03-05 22:04:27 [douban2] INFO: 采集进度 - 排名: 117, 当前节点: 90, 总进度: 259/250
+2025-03-05 22:04:30 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 2 | delay: 3000 ms (+0) | latency: 1688 ms | size: 27223 bytes
+2025-03-05 22:04:32 [douban2] INFO: 成功解析电影: 消失的爱人 (排名: 122)
+2025-03-05 22:04:32 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 86条, 全局: 183条
+2025-03-05 22:04:32 [Douban2.pipelines] INFO: 当前总采集数量: 261
+2025-03-05 22:04:32 [douban2] INFO: 采集进度 - 排名: 122, 当前节点: 91, 总进度: 261/250
+2025-03-05 22:04:34 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 2 | delay: 3000 ms (+0) | latency: 1181 ms | size: 27707 bytes
+2025-03-05 22:04:36 [douban2] INFO: 成功解析电影: 超能陆战队 (排名: 106)
+2025-03-05 22:04:36 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 87条, 全局: 187条
+2025-03-05 22:04:36 [Douban2.pipelines] INFO: 当前总采集数量: 265
+2025-03-05 22:04:36 [douban2] INFO: 采集进度 - 排名: 106, 当前节点: 92, 总进度: 265/250
+2025-03-05 22:04:36 [Douban2.middlewares] ERROR: 代理 http://geo.iproyal.com:11201 请求异常: User timeout caused connection failure: Getting https://movie.douban.com/subject/10777687/ took longer than 15.0 seconds..
+2025-03-05 22:04:39 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1399 ms | size: 25809 bytes
+2025-03-05 22:04:41 [douban2] INFO: 成功解析电影: 爱在日落黄昏时 (排名: 111)
+2025-03-05 22:04:41 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 88条, 全局: 190条
+2025-03-05 22:04:41 [Douban2.pipelines] INFO: 当前总采集数量: 268
+2025-03-05 22:04:41 [douban2] INFO: 采集进度 - 排名: 111, 当前节点: 93, 总进度: 268/250
+2025-03-05 22:04:43 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1805 ms | size: 25443 bytes
+2025-03-05 22:04:44 [douban2] INFO: 成功解析电影: 7号房的礼物 (排名: 101)
+2025-03-05 22:04:44 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 89条, 全局: 193条
+2025-03-05 22:04:44 [Douban2.pipelines] INFO: 当前总采集数量: 271
+2025-03-05 22:04:44 [douban2] INFO: 采集进度 - 排名: 101, 当前节点: 94, 总进度: 271/250
+2025-03-05 22:04:47 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 2370 ms | size: 25724 bytes
+2025-03-05 22:04:47 [douban2] INFO: 成功解析电影: 请以你的名字呼唤我 (排名: 134)
+2025-03-05 22:04:47 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 90条, 全局: 196条
+2025-03-05 22:04:47 [Douban2.pipelines] INFO: 当前总采集数量: 274
+2025-03-05 22:04:47 [douban2] INFO: 采集进度 - 排名: 134, 当前节点: 95, 总进度: 274/250
+2025-03-05 22:04:51 [scrapy.extensions.throttle] INFO: slot: http://wvR6upmH4hiV9OSo:80kOlNDhuUFnLpJ3_country-cn@geo.iproyal.com:11201 | conc: 1 | delay: 3000 ms (+0) | latency: 1590 ms | size: 28490 bytes
+2025-03-05 22:04:51 [douban2] INFO: 成功解析电影: 蝙蝠侠：黑暗骑士崛起 (排名: 103)
+2025-03-05 22:04:51 [douban2] INFO: Redis存储状态 - 节点movies_douban2: 91条, 全局: 198条
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 当前总采集数量: 276
+2025-03-05 22:04:51 [douban2] INFO: 采集进度 - 排名: 103, 当前节点: 96, 总进度: 276/250
+2025-03-05 22:04:51 [douban2] INFO: 创建请求: https://movie.douban.com/top250?start=225&filter=
+2025-03-05 22:04:51 [douban2] INFO: 爬虫空闲次数: 1
+2025-03-05 22:04:51 [douban2] INFO: Redis中剩余请求数: 1
+2025-03-05 22:04:51 [douban2] INFO: 当前活跃节点数: 3
+2025-03-05 22:04:51 [douban2] INFO: 当前节点已采集数据量: 96
+2025-03-05 22:04:51 [douban2] INFO: 当前节点配额: 83
+2025-03-05 22:04:51 [douban2] INFO: 准备关闭爬虫，原因: 达到节点配额
+2025-03-05 22:04:51 [douban2] INFO: 检测到剩余请求，重置空闲计数器
+2025-03-05 22:04:51 [douban2] INFO: 开始保存数据...
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 开始保存数据 - 节点: douban2, 当前节点数据量: 96
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 已保存节点数据到SQLite表: movies_douban2
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 节点数据统计: {'movies_douban1': 89, 'movies_douban2': 91, 'movies_douban3': 96}, 总数据量: 276
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 所有节点数据采集完成，开始生成汇总
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 已删除旧的movies_summary视图
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 已删除旧的movies_all表
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 成功读取表 movies_douban1，数据量: 97
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 成功读取表 movies_douban2，数据量: 96
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 成功读取表 movies_douban3，数据量: 81
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 合并后的总数据量: 184
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 已保存汇总Excel文件: output/豆瓣Top250_汇总_20250305_220451.xlsx
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 已保存汇总数据到SQLite表: movies_all
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 已创建SQLite视图: movies_summary
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 已保存汇总Parquet文件: output/parquet/movies_all_20250305_220451.parquet
+2025-03-05 22:04:51 [Douban2.pipelines] INFO: 已更新汇总统计信息: output/crawl_summary.txt
+2025-03-05 22:04:51 [scrapy.core.engine] INFO: Closing spider (数据保存完成，关闭爬虫)
+2025-03-05 22:04:51 [douban2] INFO: 爬虫已关闭
+2025-03-05 22:04:51 [douban2] INFO: 爬虫已关闭
+2025-03-05 22:04:51 [Douban2.middlewares] INFO: 
+代理使用统计:
+2025-03-05 22:04:51 [Douban2.middlewares] INFO: 总请求数: 100
+2025-03-05 22:04:51 [Douban2.middlewares] INFO: 成功请求: 99
+2025-03-05 22:04:51 [Douban2.middlewares] INFO: 失败请求: 1
+2025-03-05 22:04:51 [Douban2.middlewares] INFO: 重试次数: 1
+2025-03-05 22:04:51 [Douban2.middlewares] INFO: 成功率: 99.00%
+2025-03-05 22:04:51 [Douban2.middlewares] INFO: 
+代理池统计:
+2025-03-05 22:04:51 [Douban2.middlewares] INFO: 可用代理数: 1
+2025-03-05 22:04:51 [Douban2.middlewares] INFO: 失败代理数: 0
+2025-03-05 22:04:51 [Douban2.middlewares] INFO: 总请求数: 344
+2025-03-05 22:04:51 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 1,
+ 'downloader/exception_type_count/twisted.internet.error.TimeoutError': 1,
+ 'downloader/request_bytes': 119538,
+ 'downloader/request_count': 100,
+ 'downloader/request_method_count/GET': 100,
+ 'downloader/response_bytes': 2652378,
+ 'downloader/response_count': 99,
+ 'downloader/response_status_count/200': 99,
+ 'elapsed_time_seconds': 394.58833,
+ 'finish_reason': '数据保存完成，关闭爬虫',
+ 'finish_time': datetime.datetime(2025, 3, 5, 14, 4, 51, 662927, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 11834701,
+ 'httpcompression/response_count': 99,
+ 'item_scraped_count': 96,
+ 'items_per_minute': None,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 560,
+ 'request_depth_max': 1,
+ 'response_received_count': 99,
+ 'responses_per_minute': None,
+ 'scheduler/dequeued/redis': 100,
+ 'scheduler/enqueued/redis': 81,
+ 'start_time': datetime.datetime(2025, 3, 5, 13, 58, 17, 74597, tzinfo=datetime.timezone.utc)}
+2025-03-05 22:04:51 [scrapy.core.engine] INFO: Spider closed (数据保存完成，关闭爬虫)
